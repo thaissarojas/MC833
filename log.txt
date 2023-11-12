@@ -1,0 +1,5 @@
+Processo= 164079
+IP = 127.0.0.1 Porta= 48606
+[ Tue Nov  7 19:55:20 2023] Comando enviado: SIMULE: CPU_INTENSIVA
+[ Tue Nov  7 19:55:20 2023] Recebido pelo cliente: IP = 127.0.0.1 Porta= 48606 SIMULACAO: CPU_INTENSIVA CONCLUÍDA
+[ Tue Nov  7 19:55:20 2023] Conexão encerrada com cliente IP = 127.0.0.1 Porta= 48606
