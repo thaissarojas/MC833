@@ -3,3 +3,13 @@ IP = 127.0.0.1 Porta= 48606
 [ Tue Nov  7 19:55:20 2023] Comando enviado: SIMULE: CPU_INTENSIVA
 [ Tue Nov  7 19:55:20 2023] Recebido pelo cliente: IP = 127.0.0.1 Porta= 48606 SIMULACAO: CPU_INTENSIVA CONCLUÍDA
 [ Tue Nov  7 19:55:20 2023] Conexão encerrada com cliente IP = 127.0.0.1 Porta= 48606
+Processo= 46625
+IP = 127.0.0.1 Porta= 41500
+[ Tue Nov 14 17:15:41 2023] Comando enviado: SIMULE: CPU_INTENSIVA
+[ Tue Nov 14 17:15:41 2023] Recebido pelo cliente: IP = 127.0.0.1 Porta= 41500 SIMULACAO: CPU_INTENSIVA CONCLUÍDA
+[ Tue Nov 14 17:15:41 2023] Conexão encerrada com cliente IP = 127.0.0.1 Porta= 41500
+Processo= 47077
+IP = 127.0.0.1 Porta= 60180
+[ Tue Nov 14 17:17:13 2023] Comando enviado: SIMULE: CPU_INTENSIVA
+[ Tue Nov 14 17:17:13 2023] Recebido pelo cliente: IP = 127.0.0.1 Porta= 60180 SIMULACAO: CPU_INTENSIVA CONCLUÍDA
+[ Tue Nov 14 17:17:13 2023] Conexão encerrada com cliente IP = 127.0.0.1 Porta= 60180
